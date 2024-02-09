@@ -17,14 +17,14 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say(`NeKoTinaBot-MD`, {
+say(`JOHAN-BOT-MD`, {
   font: 'pallet',
     color: 'candy',
     align: 'center',
     gradient: ["red","blue"]
 })
 
-say((`BOT 2023`), {
+say((`BOT 2024`), {
     font: 'simple3d',
     color: 'candy',
     align: 'center',
